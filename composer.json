@@ -1,0 +1,9 @@
+{
+	"name": "sevenpercent/application",
+	"description": "Application base class",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
